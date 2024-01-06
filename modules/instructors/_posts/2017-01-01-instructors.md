@@ -19,6 +19,6 @@ Michael Cassens maintains this course. Please contact Michael with any problems.
 
 #### Office Hours
 
-Monday and Wednesday 12 pm - 1 pm
+Monday and Wednesday 11 am - 12 pm
 
 
