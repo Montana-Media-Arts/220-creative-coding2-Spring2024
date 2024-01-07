@@ -60,6 +60,31 @@ Your browser will now show you the brand new repository!
 
 ![Click Collaborators](../imgs/Changes.png)
 
+6. Next click Preview Pull Request
+
+![Click Collaborators](../imgs/PreviewPull.png)
+
+7. Make sure the main branch is where you are merging into and then click Create Pull Request.
+
+![Click Collaborators](../imgs/OpenPull.png)
+
+8. It should take you to GitHub.com and there you can click Create Pull Request.
+
+![Click Collaborators](../imgs/GitHubPull.png)
+
+9. Because of the changes, the conflicts will need to be resolved by clicking on resolve conflicts.
+
+![Click Collaborators](../imgs/ResolveConflicts.png)
+
+10. Remove all the conflicting markers.
+
+![Alt text](../imgs/RemoveConflictMarkers.png)
+
+11. Then, click the Mark as resolved and then click Commit merge
+
+![Alt text](../imgs/CommitMerge.png)
+
+12.  Now all changes have been updated to main and remember to Pull Origin to make sure all branches are up to date.
 
 
 </div>
