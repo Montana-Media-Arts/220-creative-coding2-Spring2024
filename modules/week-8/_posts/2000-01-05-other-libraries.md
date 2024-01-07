@@ -1,6 +1,6 @@
 ---
-title: Week 7 Other Libraries
-module: 7
+title: Other Libraries
+module: 8
 ---
 
 # Other libraries <br />

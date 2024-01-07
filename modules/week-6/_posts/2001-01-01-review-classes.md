@@ -1,6 +1,6 @@
 ---
 title: Review Classes and Objects
-module: 5
+module: 6
 jotted: false
 ---
 

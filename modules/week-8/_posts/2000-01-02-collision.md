@@ -1,6 +1,6 @@
 ---
-title: Week 7 Collision
-module: 7
+title: Week Collision
+module: 8
 ---
 
 # Basic Collision<br />

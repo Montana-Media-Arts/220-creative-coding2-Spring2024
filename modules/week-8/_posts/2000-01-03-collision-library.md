@@ -1,6 +1,6 @@
 ---
-title: Week 7 Collide2D library
-module: 7
+title: Collide2D library
+module: 8
 ---
 
 # p5.collide2d <br />
