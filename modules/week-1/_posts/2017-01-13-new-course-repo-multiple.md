@@ -56,6 +56,13 @@ Your browser will now show you the brand new repository!
 ![Click Collaborators](../imgs/CreateBranch.png)
 
 3. Now, each user can pull the code and it will in their branch.
+4. Make sure you have chosen your branch in GitHub Desktop.
+
+![Click Collaborators](../imgs/Branch.png)
+
+5. Next change the ReadMe.md file.  Add some text and push.
+
+![Click Collaborators](../imgs/Changes.png)
 
 
 
