@@ -1,6 +1,6 @@
 ---
 title: p5.js Basic Shapes
-module: 1
+module: 2
 jotted: false
 ---
 

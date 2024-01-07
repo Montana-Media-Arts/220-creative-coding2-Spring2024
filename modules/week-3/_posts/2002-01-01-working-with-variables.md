@@ -1,6 +1,6 @@
 ---
 title: Working with Variables
-module: 2
+module: 3
 jotted: false
 ---
 
