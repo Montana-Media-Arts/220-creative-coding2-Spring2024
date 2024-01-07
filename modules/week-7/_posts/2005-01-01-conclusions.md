@@ -1,9 +1,9 @@
 ---
 title: Conclusions
-module: 7
+module: 6
 jotted: false
 ---
 
 # Conclusions
 
-This week we added sound, collision and additional external libraries into our projects.
+This week we continued working on our game.

@@ -1,26 +1,14 @@
 ---
-title: Weekly Conclusions
-module: 2
-jotted: false
+title: Conclusions
+module: 1
 ---
 
-# Weekly Conclusions
+## Conclusions
 
-This week you were introduced to JavaScript and worked through the critical "JavaScript Rules! (aka Hello World!)".
+That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
 
-This is a purposefully light week. You should use this week to get caught up on any Web Dev principles that you may be uncomfortable with or missing from last semester. Again you can use your previous website or the [original MART 341 site](https://montana-media-arts.github.io/mart341-webDev/). In particular, you should make sure you are comfortable with;
+Remember, if you need help, you should try using the course ["Issues Forum" hosted on GitHub](https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/issues).
 
-- linking between pages and to other files (i.e., image file, JavaScript files, CSS files, etc.)
+## Study Groups
 
-It would be best if you also took the time to make sure you are comfortable with the new &lt;script&gt; tag, and how to include inline and external JavaScript.
-
-<br />
-
-Next week, we will began to look at the basics of programming, including;
-
-- variables,
-- program flow,
-- debugging,
-- and structure.
-
-In the meantime, don't forget to set up a time to meet through calendly for our weekly check-in. My [Office Hours]({{site.baseurl}}/instructors/#office-hours) for the semester also located in the "Instructor" tab above.
+Another strategy I would suggest you adopt, regardless of whether you need help right now, is to form a study/work group for this class. Consider reaching out to your fellow classmates. You could do this through the Issues Forum or Discord.

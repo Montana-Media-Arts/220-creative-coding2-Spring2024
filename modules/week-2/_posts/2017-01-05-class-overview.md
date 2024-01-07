@@ -1,6 +1,6 @@
 ---
 title: What Will This Course Be Like?
-module: 1
+module: 2
 ---
 
 ## What Will This Course Be Like?

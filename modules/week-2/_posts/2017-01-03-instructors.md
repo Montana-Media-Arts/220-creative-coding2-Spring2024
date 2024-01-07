@@ -1,6 +1,6 @@
 ---
 title: Instructor Information
-module: 1
+module: 2
 jotted: false
 ---
 

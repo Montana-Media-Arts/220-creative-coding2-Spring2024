@@ -1,9 +1,9 @@
 ---
 title: Weekly Conclusions
-module: 5
+module: 4
 jotted: false
 ---
 
 # Weekly Conclusions
 
-This week, we covered some more advanced topics and reviewed prior topics to reinforce our knowledge.  Hopefully, it was challenging and interesting!
+This week we covered a lot.  We learned about classes, objects and arrays. Those are no small things.  These are all part of the Object-Oriented paradigm.  We can use these techniques to help us build some really cool things.  

@@ -1,6 +1,6 @@
 ---
 title: Issues and GitHub
-module: 1
+module: 2
 ---
 
 <!-- Consider moving to week 2. Instead, replace with Moodle forum info. -->
