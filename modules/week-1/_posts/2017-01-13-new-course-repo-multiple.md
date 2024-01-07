@@ -1,13 +1,11 @@
 ---
-title: New Repo for This Course
+title: Repositories with Multiple COllaborators
 module: 1
 jotted: false
 ---
 
 <div class="tab">
     <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-    <button class="tablinks" onclick="openTab(event, 'Clone')">Clone Site</button>
-    <button class="tablinks" onclick="openTab(event, 'TextEditor')">Text Editor</button>
    
 </div>
 
