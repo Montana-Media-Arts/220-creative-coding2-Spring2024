@@ -31,8 +31,6 @@ In this section, you are to find at least two other people in the class and crea
 <br />
 
 Your browser will now show you the brand new repository!
-</div>
-<div id="Clone" class="tabcontent" markdown="1">
 
 **Add Collaborators**
 
