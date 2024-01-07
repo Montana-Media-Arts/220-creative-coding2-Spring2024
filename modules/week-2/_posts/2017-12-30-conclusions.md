@@ -5,7 +5,7 @@ module: 2
 
 ## Conclusions
 
-That is it for Week 1. I hope you are excited for this course and everything we are going to learn this semester.
+That is it for Week 2. I hope you are excited for this course and everything we are going to learn this semester.
 
 Remember, if you need help, you should try using the course ["Issues Forum" hosted on GitHub](https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/issues).
 
