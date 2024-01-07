@@ -1,5 +1,5 @@
 ---
-title: Repositories with Multiple COllaborators
+title: Repositories with Multiple Collaborators
 module: 1
 jotted: false
 ---
