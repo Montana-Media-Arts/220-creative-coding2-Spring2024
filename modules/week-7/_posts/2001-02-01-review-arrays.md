@@ -1,6 +1,6 @@
 ---
 title: Review Arrays
-module: 6
+module: 7
 jotted: false
 ---
 

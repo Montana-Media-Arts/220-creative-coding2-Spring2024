@@ -1,6 +1,6 @@
 ---
 title: Animation Decisions
-module: 6
+module: 7
 jotted: false
 ---
 
